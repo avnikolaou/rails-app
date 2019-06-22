@@ -31,7 +31,7 @@ puts "5 skills created"
       in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
       non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     main_image: "http://placeholdit/600x400",
-    thumb_image: "http://placeholdit/350x200"
+    thumb_image: "https://via.placeholder.com/350x200"
   )
 end
 puts "9 portfolio items created"

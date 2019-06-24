@@ -11,5 +11,9 @@ Rails.application.routes.draw do
   # Set the root page
   root to: 'pages#home'
 
-  resources :blogs
+  resources :blogs do
+    member do
+      get :toggle_status
+    end
+  end
 end

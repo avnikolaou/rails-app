@@ -31,6 +31,9 @@ gem 'jbuilder', '~> 2.5'
 # friendly id gem
 gem 'friendly_id', '~> 5.2.4'
 
+# devise gem
+gem 'devise', '~> 4.2'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

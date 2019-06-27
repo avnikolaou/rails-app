@@ -14,4 +14,8 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
     end
   end
+
+  def copyright_generator
+    AvNikolaouViewTool::Renderer.copyright 'Avraam Nikolaou', 'Developed with love'
+  end
 end

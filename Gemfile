@@ -40,6 +40,9 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 # Bootstrap 4
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 
+# AvNikolaouViewTool
+gem 'av_nikolaou_view_tool', git: 'https://github.com/avnikolaou/av_nikolaou_view_tool'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

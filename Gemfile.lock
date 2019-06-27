@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/avnikolaou/av_nikolaou_view_tool
+  revision: 4ddf3228352c648d4f9427852b800dbde80dea37
+  specs:
+    av_nikolaou_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -208,6 +214,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  av_nikolaou_view_tool!
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.3, >= 4.3.1)
   byebug

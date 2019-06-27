@@ -14,18 +14,7 @@
   </head>
 
   <body>
-<!--Start of nav-->
-    <div class="inner">
-      <nav class="nav nav-masthead justify-content-center">
-        <%= link_to "Home", root_path, class: "nav-link"%>
-        <%= link_to "About", about_me_path, class: "nav-link" %>
-        <%= link_to "Contact", contact_path, class: "nav-link" %>
-        <%= link_to "Blog", blogs_path, class: "nav-link" %>
-        <%= link_to "Portfolio", portfolios_path, class: "nav-link" %>
-        <%= login_helper "nav-link" %>
-      </nav>
-    </div>
-<!--End of nav-->
+    <%= render 'shared/blog_nav' %>
 
     <div class="container">
       <div class="row">

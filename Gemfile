@@ -43,6 +43,9 @@ gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 # AvNikolaouViewTool
 gem 'av_nikolaou_view_tool', git: 'https://github.com/avnikolaou/av_nikolaou_view_tool'
 
+# petergate
+gem 'petergate', '~> 2.0', '>= 2.0.1'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

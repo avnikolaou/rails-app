@@ -42,7 +42,7 @@ body {
 }
 
 .cover-container {
-  max-width: 55rem;
+  max-width: 65rem;
 }
 
 
@@ -94,10 +94,19 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
+  display: flex;
 }
 .cover .btn-lg {
   padding: .75rem 1.25rem;
   font-weight: 700;
+}
+
+.info {
+  width: 50%;
+}
+
+.map {
+  width: 50%;
 }
 
 

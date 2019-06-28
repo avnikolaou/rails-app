@@ -52,6 +52,9 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
 #Kaminari
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
 
+#gem jquery-ui-rails
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

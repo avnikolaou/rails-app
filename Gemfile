@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'friendly_id', '~> 5.2.4'
 
 # devise gem
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 
 # jquery
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
